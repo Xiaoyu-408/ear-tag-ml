@@ -25,7 +25,7 @@ The iSPET platform is an integrated, field-deployable device that converges sust
 ---
 
 ## **Machine Learning Workflow**
-![Machine Learning Workflow]([Model/Machine_learning_process.jpg](https://github.com/Xiaoyu-408/ear-tag-ml/blob/main/Machine_learning_process.jpg))
+![Machine Learning Workflow]([Model/Machine_learning_process.jpg])
 *Fig. 1. Biosensing signals → preprocessing → ML classifier (XGBoost) → metabolic state classification.*
 
 
