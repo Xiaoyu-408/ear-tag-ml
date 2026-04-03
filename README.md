@@ -22,10 +22,3 @@ The iSPET platform is an integrated, field-deployable device that converges sust
 1. Clone the Repository: https://github.com/Xiaoyu-408/ear-tag-ml
 2. Prerequisites: Python 3.8; shap 0.44.1
 
----
-
-## **Machine Learning Workflow**
-![Machine Learning Workflow](Machine_learning_process.jpg)
-*Fig. 1. Biosensing signals → preprocessing → ML classifier (XGBoost) → metabolic state classification.*
-
-
